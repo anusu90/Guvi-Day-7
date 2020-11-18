@@ -1,0 +1,49 @@
+html{
+    margin-top: 0px;
+    font-family: Arial;
+    font-size: 13px;
+}
+header{
+    border: solid 1px grey;
+    margin-top: 0px;
+}
+.header-top{
+    background-color: #660000;
+    color: white;
+    text-align: center;
+}
+
+.header-link{
+    color: #FF9900;
+}
+
+p.header-top{
+    font-style: italic;
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+body{
+    background-color: #FFFFDD;
+    margin: 0px;
+}
+
+table.main-table{
+    border: 2px solid black; 
+    border-collapse: collapse; 
+    width: 100%;
+}
+
+td.first-col{
+    border: 1px solid black; 
+    border-collapse: collapse;
+    width: 2%;
+}
+
+td.other-columns{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td.three-cols{
+    border: 0px;
+}

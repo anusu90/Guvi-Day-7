@@ -1,0 +1,14 @@
+div
+p
+ol
+ul
+table
+	tr
+		td
+
+section
+form
+	input
+
+script can be inside head as well as as inside body. Usually its inside body. there is a subtle difference that is important.
+span is the only element that is by default not a block but an inline element
